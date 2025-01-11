@@ -1,0 +1,5 @@
+laptop_id
+inches
+product
+cpu
+Gpu
